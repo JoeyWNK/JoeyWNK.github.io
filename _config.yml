@@ -10,12 +10,13 @@ title: Joey WNK
 author:
   name: 'Joey WNK'
   email: wnk1993@gmail.com
+  twitter_username: 
+  github_username: JoeyWNK
+
 description: > # this means to ignore newlines until "baseurl:"
   Joey WNK's github.io. recording ideas and more.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://JoeyWNK.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username: JoeyWNK
 
 # Build settings
 markdown: kramdown
