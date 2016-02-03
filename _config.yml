@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Joey WNK
+author:
+  name: 'Joey WNK'
+  email: wnk1993@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Joey WNK's github.io. recording ideas and more.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://JoeyWNK.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username: JoeyWNK
+
+# Build settings
+markdown: kramdown
+paginate: 10
+permalink: /:year/:month/:day/:title
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']

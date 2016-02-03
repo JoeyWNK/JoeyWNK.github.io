@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "markdown"
+date:   2016-02-04 04:59:48 +0800
+categories: [jekyll]
+tags: [jekyll]
+---
+[Markdown](http://daringfireball.net/projects/markdown/) 是一种 [标记语言](https://zh.wikipedia.org/wiki/%E7%BD%AE%E6%A0%87%E8%AF%AD%E8%A8%80), 我对其的理解为一种类似于html 或者xml的轻量级文本语言。这里的语言指的是一套语法规范，比如本篇就是使用Markdown的一个衍生版本 [kramdown](http://kramdown.gettalong.org/) 编写的，其中字体的 **加粗**，[超链接]() 都是根据一套规则生成的。该篇的目的也就是记录一下。
+
+###特性
+
+*Markdown* 的优势在于：
+它简化了排版与调整。通过一套标准的输出格式，人们可以随心所欲的编写或者像不少人说的：`专注于码字`
+
+同样的它也要求使用者先要了解 *Markdown* 的规则
+
+*Markdown* 的规则比较简： 5-6 大类，不超过 20 个具体规则你就可以很熟练的使用了，由于在线的讲解比较多，所以我就不费心思再写一遍了 ~~懒~~
+
+###在线教程
+
+网上关于 *Markdown* 相关说明，或者说教程有不少
+
+我一开始接触的是 **[github](http://github.com)** 的 **[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)**
+
+
+中文版本的也有不少，比如 **[少数派](http://sspai.com/)** 的 **[认识与入门 Markdown](http://sspai.com/25137)**
