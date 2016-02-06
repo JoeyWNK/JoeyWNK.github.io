@@ -4,6 +4,7 @@
 /* Modifications */
 
 .highlight pre {
+  overflow-x: auto;
   padding: 10px;
 }
 
