@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "markdown"
+title:  "Markdown"
 date:   2016-02-04 04:59:48 +0800
 categories: [jekyll]
 tags: [jekyll]
